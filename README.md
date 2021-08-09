@@ -1,4 +1,4 @@
-# automatosfinitosdeterministicos
+# Autômatos finitos determinísticos
 Autômatos finitos determinísticos em Python para uma avaliação da matéria Linguagens Formais e Autômatos
 Para modificar as funcões utilize o arquivo funcoes.txt, onde o primeiro valor é o estado atual, o segundo é valor é a letra da palavra, o terceiro valor é o estado de destino.
 Exemplo a linha:
